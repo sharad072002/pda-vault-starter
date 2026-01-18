@@ -30,7 +30,7 @@ pda-vault-starter/
 ├── programs/
 │   └── pda-vault/
 │       └── src/
-│           └── lib.rs          # Your program logic goes here
+│           └── lib.rs          
 ├── tests/
 │   └── pda-vault.ts           # Test file
 ├── Anchor.toml
